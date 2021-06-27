@@ -1567,6 +1567,7 @@ static const char* lua_builtins[] =
     "clua/stash.lua",
     "clua/delays.lua",
     "clua/autofight.lua",
+    "clua/autosafe.lua",
     "clua/automagic.lua",
     "clua/kills.lua",
 };
